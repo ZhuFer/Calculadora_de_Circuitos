@@ -27,7 +27,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 .\.venv\Scripts\Activate.ps1
 
 ### 3. Instalar Dependencias
-pip install customtkinter
+pip install -r requirements.txt
 
 ### 4. Ejecutar Aplicación
 python main.py
