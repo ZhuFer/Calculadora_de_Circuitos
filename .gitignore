@@ -1,2 +1,3 @@
 .venv/
 .pycache/
+logic/__pycache__/
